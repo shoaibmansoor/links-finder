@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 
+App Url: [Links Finder](https://shoaibmansoor.github.io/links-finder/)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
